@@ -11,7 +11,7 @@ This repository is designed to work with the PortSwigger Web Security Academy la
 
 ## Video Tutorial
 
-A video tutorial demonstrating these techniques will be published soon. Check back for updates.
+Youtube link: https://youtu.be/BgrF-mWw9Zk?si=izERzq2pAcw3J6rd
 
 ## Repository Contents
 
