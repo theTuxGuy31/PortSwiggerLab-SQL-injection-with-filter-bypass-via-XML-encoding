@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 HTML Hex Entity Encoder
 Converts text to HTML hex entities (&#xHH; format).
