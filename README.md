@@ -20,7 +20,6 @@ Youtube link: https://youtu.be/BgrF-mWw9Zk?si=izERzq2pAcw3J6rd
 - **`hex_encoder.py`** - HTML hex entity encoder/decoder utility
 - **`payloads.txt`** - SQL injection payloads for testing
 - **`post.js`** - JavaScript code for making XML POST requests
-- **`readme.md`** - Basic repository information
 
 ## Tools
 
