@@ -84,17 +84,6 @@ This repository is intended for:
 - Follow applicable laws and regulations
 - Use for educational and defensive purposes only
 
-## Mitigation
-
-To protect against these types of attacks:
-
-1. **Use parameterized queries/prepared statements**
-2. **Implement proper input validation**
-3. **Apply output encoding**
-4. **Use least privilege database access**
-5. **Implement Web Application Firewalls (WAF)**
-6. **Regular security testing and code review**
-
 ## Additional Resources
 
 - [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
